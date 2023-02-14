@@ -1,7 +1,0 @@
-#######
-FFFFFFF
-F  T  F
-FF    F
-FF  o F
-FF T  F 
-#F#FFF#
