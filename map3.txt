@@ -1,0 +1,7 @@
+#######
+###FF##
+F  T  F
+#F    F
+ F  o F
+   T  F 
+#F#FFFF
