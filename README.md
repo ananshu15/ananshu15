@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ananshu15 Computer Science Major
+- 👋 Hi, I’m @ananshu15 Computer Science
 - 👀 I’m interested in Cyber Security and Game Development
-- 🌱 I’m currently in my senior year and working on game development projects
+
  
 
 <!---
